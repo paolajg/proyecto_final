@@ -1,0 +1,108 @@
+header{
+    width: 1100px;
+    height: 300px;
+    background-color: thistle;
+}
+#logo{
+    float: left;
+   
+    padding: 20px 0px 0px 20px;
+
+}
+#intro{
+    text-align: inherit;
+    font-size: 20px;
+    padding-top: 110px;
+    font-style: italic;
+}
+#ban{
+  width: 1100px;
+   height: 250px;
+}
+#menu{
+    
+    width: 1000px;
+    padding-left: 20px;
+   
+    float: unset;
+    
+}
+#menu nav ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgba(95, 66, 141, 0.61);
+}
+
+#menu nav ul li{
+    float: left;
+    
+}
+#menu nav li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-style: italic;
+
+}
+
+#menu nav li a:hover{
+background-color: #111;
+
+}
+#perfil{
+    float: left;
+    padding-right: 20px;
+}
+body{
+    padding: 0px 150px;
+
+}
+#textbio{
+    font-style: initial;
+}
+
+.mystyle {
+    width: 100%;
+    padding: 25px;
+
+    color: rgb(27, 24, 24);
+    box-sizing: border-box;
+  }
+
+  
+footer{
+    background-color: thistle;
+    width: 1100px;
+    height: 60px;
+    padding: 8px 0px 0px 25px;
+    margin: 100px 0px 0px 0px;
+    font-style: italic;
+}
+/* Set a specific color for each brand */
+  
+  /* Facebook */
+  .fa-facebook {
+  
+    color: black;
+  }
+  /* instagram */
+  .fa-instagram {
+   
+    color:black;
+  }
+
+  /* Twitter */
+  .fa-twitter {
+   
+    color: black;
+  }
+
+   /* Linkedin*/
+   .fa-linkedin {
+   
+    color: black;
+  }
